@@ -1,0 +1,10 @@
+_unit_id: Unique identifier for each row.
+_golden: Boolean indicating whether the entry is a reference/golden row for evaluation.
+_unit_state: State of the row (golden, finalized, etc.).
+_trusted_judgments: Number of times this tweet has been judged.
+_last_judgment_at: Timestamp for the most recent judgment.
+sentiment: Sentiment class (positive, negative, or neutral).
+sentiment:confidence: Confidence score for the sentiment classification.
+date: Date and time when the tweet was posted.
+query: Search query used to collect the tweet (e.g., "#AAPL OR @Apple").
+text: Actual content of the tweet
