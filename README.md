@@ -12,4 +12,17 @@ Dataset was sourced from [data.world provided by CrowdFlower](https://data.world
 
 ### Ternary Classification
 
-### Conclusion and Recommendation
+## Conclusions 
+
+## Recommendations
+
+## Limitations and Next Steps
+
+
+```
+├── README.md               <- The top-level README for reviewers of this project.
+├── index.ipynb             <- Narrative documentation of analysis in jupyter notebook
+├── notebook.pdf            <- Narrative documentation of analysis in PDF
+├── presentation.pdf        <- PDF version of project presentation
+├── images                  <- Both sourced externally and generated from code
+└── data                    <- Externally sourced data
