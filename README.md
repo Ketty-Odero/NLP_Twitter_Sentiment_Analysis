@@ -19,7 +19,7 @@ Dataset was sourced from [data.world provided by CrowdFlower](https://data.world
 ## Limitations and Next Steps
 
 
-#### Repository Structure
+### Repository Structure
 
 ```
 ├── README.md               <- The top-level README for reviewers of this project.
