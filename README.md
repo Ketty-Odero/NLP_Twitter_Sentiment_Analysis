@@ -4,6 +4,13 @@ This repository explores Natural Language processing by building a NLP Model to 
 ## Data
 Dataset was sourced from [data.world provided by CrowdFlower](https://data.world/crowdflower/brands-and-product-emotions) which contains 9,093 tweets about Apple and Google from the South by Southwest (SXSW) Conference. The tweet labels were crowdsourced and reflect which emotion they convey and what product/service/company this emotion is directed at based on the content.
 ## Methods
+We started with data cleaning and exploring the dataset to have a grasp of the features it contained.Data was cleaned(duplicates and missing values handled) and sentiments labels simplified to "Positive", "Neutral" and "Negative" before Exploratory Data Analysis (EDA).
+
+In the EDA, we looked at tweets with positive and negative sentiments as a whole as well as on a company and product level. Wordclouds were generated for each analysis. To be able to produce these graphics the tweets were tokenized with nltk's TweetTokenizer since it has built-in functionality for tweets specifically, lemmatized with the WordNetLemmatizer and stop words were removed from these tokens. We customized stop words to get a better view of the content of the tweets for addressing the questions.
+
+Modelling process was split in two: Binary Classification and Ternary Classification. For each type of classification, data was prepared and a baseline dummy classifier model was trained to serve as a baseline. For comparison we trained/tested Random Forest models and Logistic Regression models for Multiclass Classification while for Binary classification we explored Multinomial Naive Bayes and Logistic Regression.
+
+Models were evaluated  and tuned hyperparameters with gridsearches that optimized for the recall macro scores, as we desired that the models correctly classify all classes. These steps were repeated with different parameters
 
 ## Results
 ### Exploratory Data Analysis
