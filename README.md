@@ -13,7 +13,6 @@ Modelling process was split in two: Binary Classification and Ternary Classifica
 Models were evaluated  and tuned hyperparameters with gridsearches that optimized for the recall macro scores, as we desired that the models correctly classify all classes. These steps were repeated with different parameters
 
 ## Results
-### Exploratory Data Analysis
 
 ### Binary Classification
 
