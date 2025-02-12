@@ -102,6 +102,10 @@ These results indicate that both Google and Apple are generally well-received du
 -  Define clear criteria for sentiment classification to reduce labeling inconsistencies
 - Improve model performance by exploring other sadvanced models and parameters and incorporating Neural Networks for better text classification
 
+### Further Information
+
+Review my full analysis in [my Jupyter Notebook](./notebooks/index.ipynb)
+
 
 ### Repository Structure
 
