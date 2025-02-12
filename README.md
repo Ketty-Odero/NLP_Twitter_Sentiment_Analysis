@@ -1,5 +1,9 @@
 This repository explores Natural Language processing by building a NLP Model to analyze twitter sentiments about Google Products.
+
 ## Introduction
+In today's hyper-connected world, social media is a critical tool for shaping brand perception and understanding public opinion. Millions of users share their thoughts on platforms like Twitter, making it a valuable resource for companies like Google to gather insights, adapt to trends, and make data-driven decisions.
+
+As a hired Brand Strategist, I have been tasked with conducting a sentiment analysis of tweets from the SXSW Conference to provide actionable insights that will guide Google's brand positioning and product strategy
 
 ## Data
 Dataset was sourced from [data.world provided by CrowdFlower](https://data.world/crowdflower/brands-and-product-emotions) which contains 9,093 tweets about Apple and Google from the South by Southwest (SXSW) Conference. The tweet labels were crowdsourced and reflect which emotion they convey and what product/service/company this emotion is directed at based on the content.
