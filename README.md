@@ -31,6 +31,22 @@ Above, we see that 82% of tweets related to Google were positive, 14.9% were neg
   <img src="./images/negativegoogleproducts.png" alt="Image 2" width="45%">
 </p>
 
+Conclusion has insights on the wordclouds
+
+### Percentages of Different Sentiments for Apple
+
+![Apple Sentiment Analysis](./images/applesentiments.png)
+
+Most tweets that were connected to Apple were positive (81.1%) while 16.1% of tweets were negative and 2.7% were neutral.
+
+### Sentiment Analysis of Apple Related Products/Services
+
+<p align="center">
+  <img src="./images/positiveappleproducts.png" alt="Image 1" width="45%">
+  <img src="./images/negativeappleproducts.png" alt="Image 2" width="45%">
+</p>
+
+
 ### Binary Classification
 
 ### Ternary Classification
