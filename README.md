@@ -18,6 +18,10 @@ Models were evaluated  and tuned hyperparameters with gridsearches that optimize
 
 ## Results
 
+### Percentages of Different Sentiments for Google
+
+<img src="images/%googlesentiments.png">
+
 ### Binary Classification
 
 ### Ternary Classification
