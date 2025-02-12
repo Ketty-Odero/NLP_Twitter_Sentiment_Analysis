@@ -23,8 +23,6 @@ Models were evaluated  and tuned hyperparameters with gridsearches that optimize
 ![Google Sentiment Analysis](./images/googlesentiments.png)
 
 
-<img src="./images/%googlesentiments.png">
-
 ### Binary Classification
 
 ### Ternary Classification
