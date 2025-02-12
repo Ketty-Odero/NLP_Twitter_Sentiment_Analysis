@@ -20,7 +20,7 @@ Models were evaluated  and tuned hyperparameters with gridsearches that optimize
 
 ### Percentages of Different Sentiments for Google
 
-<img src="images/%googlesentiments.png">
+<img src="./images/%googlesentiments.png">
 
 ### Binary Classification
 
