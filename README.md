@@ -42,14 +42,21 @@ Most tweets that were connected to Apple were positive (81.1%) while 16.1% of tw
 ### Sentiment Analysis of Apple Related Products/Services
 
 <p align="center">
-  <img src="./images/positiveappleproducts.png" alt="Image 1" width="45%">
+  <img src="./images/positivesappleproducts.png" alt="Image 1" width="45%">
   <img src="./images/negativeappleproducts.png" alt="Image 2" width="45%">
 </p>
 
-
 ### Binary Classification
 
+Best model was the Tuned Logistic Regression with a recall score of 0.77, less overfitting compared to other models and would offer tuning flexibilities.
+
+![Tuned Binary LR Classifier](./images/tunedLRbinary.png)
+
 ### Ternary Classification
+
+Again, under multiclass classification, best chosen model was the Tuned Logistic Regression with a recall of 0.61.
+
+![Tuned Ternary LR Classifier](./images/tunedLRternary.png)
 
 ## Conclusions 
 
