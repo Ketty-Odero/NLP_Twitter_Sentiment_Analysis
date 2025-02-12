@@ -22,6 +22,14 @@ Models were evaluated  and tuned hyperparameters with gridsearches that optimize
 
 ![Google Sentiment Analysis](./images/googlesentiments.png)
 
+Above, we see that 82% of tweets related to Google were positive, 14.9% were negative and 2.96% were neutral. Looking at the specific products under each sentiment revealed more information as observed below.
+
+### Sentiment Analysis of Google Related Products/Services
+
+<p align="center">
+  <img src="./images/positivegoogleproducts.png" alt="Image 1" width="45%">
+  <img src="./images/negativegoogleproducts.png" alt="Image 2" width="45%">
+</p>
 
 ### Binary Classification
 
